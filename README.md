@@ -1,5 +1,5 @@
-smartN 0.1, it works (maybe)
-============================
+smartN 0.2, it works (maybe) and it has main templates
+======================================================
 
 Аpplication for automated making of scheduling for university 
 
