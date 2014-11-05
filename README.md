@@ -1,7 +1,13 @@
-smartN
-======
+smartN 0.1, it works (maybe)
+============================
 
 Аpplication for automated making of scheduling for university 
+
+sequence to start:
+------------------
+
+run.py
+http://localhost:5000
 
 tasks:
 ------
@@ -17,7 +23,7 @@ DEL lessons, skills, faculty, university
 groups, teachers: many to many
 
 main entities
-=============
+-------------
 
 TABLE group_from_groups:
 id
@@ -38,7 +44,7 @@ photo
 personal comment
 
 accessory entities
-==================
+------------------
 
 TABLE lessons:
 TABLE skills:
