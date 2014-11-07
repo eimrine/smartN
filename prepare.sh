@@ -7,6 +7,7 @@
 #
 # BUILD ENVIROMENT
 #
+sudo apt-get install python-virtualenv
 python virtualenv.py flask # this will create full enviroment inside "flask" folder
 #
 #
@@ -34,30 +35,3 @@ mkdir app/static
 mkdir app/templates
 mkdir tmp
 #
-#
-# GOTO app/__init__.py
-# AND push this to it
-from flask import Flask
-
-app = Flask(__name__)
-from app import views
-#
-# 
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-
-
-# SETUP SERVICE ON SERVER
-#
-# PUSHING OUR PERSONAL DATA
-#
-# 
