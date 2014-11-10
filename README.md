@@ -1,7 +1,5 @@
-smartN 0.3, it works (maybe) and it has main templates and even forms!
-======================================================================
-I want it to be last cargo-release. I need to clone it and test at least. 
-
+smartN
+=
 Аpplication for automated making of scheduling for university 
 
 sequence to start:
