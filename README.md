@@ -10,7 +10,13 @@ http://localhost:5000
 
 tasks:
 ------
-make sh install script for flask, forms, db
+sh install script
+basic flask 
+html forms
+basic css
+javascript
+json; sql
+rest of backend
 
 make SQL commands:
 ------------------
